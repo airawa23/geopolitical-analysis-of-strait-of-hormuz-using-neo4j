@@ -1,13 +1,11 @@
-# 🌍 Geopolitical Graph Analysis using Neo4j
+# 🌍 Strait of Hormuz Geopolitical Graph Analysis
 
 ## 📌 Overview
 
-Project ini bertujuan untuk menganalisis hubungan geopolitik menggunakan graph database dengan Neo4j Graph Data Science (GDS).
+This project analyzes the **geopolitical network of the Strait of Hormuz** using graph-based methods with Neo4j.
+The goal is to identify **key countries and strategic bottlenecks** in global energy and trade flows.
 
-Analisis difokuskan pada:
-
-* Degree Centrality (koneksi langsung)
-* Betweenness Centrality (peran sebagai penghubung)
+Graph analysis is performed using centrality metrics to understand the structure and influence of each entity.
 
 ---
 
@@ -19,9 +17,9 @@ Analisis difokuskan pada:
 
 ---
 
-## 📂 Dataset Structure
+## 📂 Data Model
 
-Node yang digunakan:
+### Nodes:
 
 * Country
 * Company
@@ -29,9 +27,9 @@ Node yang digunakan:
 * Location
 * Transport
 
-Relasi:
+### Relationships:
 
-* Menggunakan semua tipe relasi (`*`)
+* Multiple relationship types (`*`) representing geopolitical, economic, and trade connections
 
 ---
 
@@ -52,9 +50,11 @@ CALL gds.graph.project(
 
 ---
 
-## 📊 Analysis Queries
+## 📊 Analysis
 
-### Degree Centrality
+### 1. Degree Centrality
+
+Measures how many direct connections a node has.
 
 ```cypher
 CALL gds.degree.stream('geopolitikGraph')
@@ -65,7 +65,11 @@ RETURN n.name AS Country, score AS DegreeCentrality
 ORDER BY score DESC;
 ```
 
-### Betweenness Centrality
+---
+
+### 2. Betweenness Centrality
+
+Identifies nodes that act as bridges in the network.
 
 ```cypher
 CALL gds.betweenness.stream('geopolitikGraph')
@@ -80,29 +84,37 @@ ORDER BY score DESC;
 
 ## 🔍 Key Insights
 
-* **Iran & Arab Saudi** memiliki betweenness centrality tertinggi → berperan sebagai bottleneck utama
-* **Amerika Serikat** berperan sebagai penghubung strategis global
-* Negara seperti **China, India, Indonesia** berperan sebagai endpoint (bukan penghubung utama)
+* **Iran and Saudi Arabia** have the highest betweenness centrality → acting as major geopolitical bottlenecks
+* **United States** plays a strategic role as a global connector
+* Countries like **China, India, and Indonesia** act as endpoints rather than intermediaries
+
+👉 This indicates a **high concentration of geopolitical power** in specific regions around the Strait of Hormuz.
 
 ---
 
 ## 🚀 How to Run
 
-1. Import dataset ke Neo4j
-2. Jalankan graph projection
-3. Jalankan query centrality
-4. Analisis hasil
+1. Import your dataset into Neo4j
+2. Run the graph projection query
+3. Execute centrality analysis queries
+4. Interpret results using Neo4j Browser
 
 ---
 
 ## 📥 Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/geopolitical-graph-analysis.git
+git clone https://github.com/airawa23/geopolitical-analysis-of-strait-of-hormuz-using-neo4j.git
 ```
+
+---
+
+## 📸 Example Output
+
+(Add your Neo4j graph screenshots here for better visualization)
 
 ---
 
 ## 👤 Author
 
-Team
+**Team**
