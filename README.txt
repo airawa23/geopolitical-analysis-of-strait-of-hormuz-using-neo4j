@@ -1,6 +1,6 @@
-# 🌍 Strait of Hormuz Geopolitical Graph Analysis
+#🌍 Strait of Hormuz Geopolitical Graph Analysis
 
-## 📌 Overview
+##📌 Overview
 
 This project analyzes the **geopolitical network of the Strait of Hormuz** using graph-based methods with Neo4j.
 The goal is to identify **key countries and strategic bottlenecks** in global energy and trade flows.
@@ -9,7 +9,7 @@ Graph analysis is performed using centrality metrics to understand the structure
 
 ---
 
-## 🛠️ Tools & Technologies
+##🛠️ Tools & Technologies
 
 * Neo4j
 * Neo4j Graph Data Science (GDS)
