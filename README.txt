@@ -1,50 +1,108 @@
-Neo4j 2026.02.2
-=======================================
+# 🌍 Geopolitical Graph Analysis using Neo4j
 
-Welcome to Neo4j release 2026.02.2, a high-performance graph database.
-This is the enterprise distribution of Neo4j, including everything you need to
-start building applications that can model, persist and explore graph-like data.
+## 📌 Overview
 
-In the box
-----------
+Project ini bertujuan untuk menganalisis hubungan geopolitik menggunakan graph database dengan Neo4j Graph Data Science (GDS).
 
-Neo4j runs as a server application, exposing a Web-based management
-interface, along with logging, capabilities for participating in a database cluster
-and JMX remote monitoring.
+Analisis difokuskan pada:
 
-Here in the installation directory, you'll find:
+* Degree Centrality (koneksi langsung)
+* Betweenness Centrality (peran sebagai penghubung)
 
-* bin - scripts and other executables
-* conf - server configuration
-* data - database
-* lib - libraries
-* plugins - user extensions
-* logs - log files
-* import - location of files for LOAD CSV
+---
 
-Make it go
-----------
+## 🛠️ Tools & Technologies
 
-For full instructions, see https://neo4j.com/docs/operations-manual/current/installation/
+* Neo4j
+* Neo4j Graph Data Science (GDS)
+* Cypher Query Language
 
-To get started with Neo4j, let's start the server and take a
-look at the web interface ...
+---
 
-1. Open a console and navigate to the install directory.
-2. Start the server:
-   * Windows, use: bin\neo4j-admin server console
-   * Linux/Mac, use: ./bin/neo4j-admin server console
-3. In a browser, open http://localhost:7474/
-4. Shutdown the server by typing Ctrl-C in the console.
+## 📂 Dataset Structure
 
-Learn more
-----------
+Node yang digunakan:
 
-* Neo4j Home: https://neo4j.com/
-* Getting Started: https://neo4j.com/docs/developer-manual/current/introduction/
-* Neo4j Documentation: https://neo4j.com/docs/
+* Country
+* Company
+* Economy
+* Location
+* Transport
 
-License(s)
-----------
-Various licenses apply. Please refer to the LICENSE and NOTICE files for more
-detailed information.
+Relasi:
+
+* Menggunakan semua tipe relasi (`*`)
+
+---
+
+## ⚙️ Graph Projection
+
+```cypher
+CALL gds.graph.project(
+  'geopolitikGraph',
+  ['Company', 'Country', 'Economy', 'Location', 'Transport'],
+  {
+    RELASI_ALL: {
+      type: '*',
+      orientation: 'NATURAL'
+    }
+  }
+);
+```
+
+---
+
+## 📊 Analysis Queries
+
+### Degree Centrality
+
+```cypher
+CALL gds.degree.stream('geopolitikGraph')
+YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS n, score
+WHERE 'Country' IN labels(n)
+RETURN n.name AS Country, score AS DegreeCentrality
+ORDER BY score DESC;
+```
+
+### Betweenness Centrality
+
+```cypher
+CALL gds.betweenness.stream('geopolitikGraph')
+YIELD nodeId, score
+WITH gds.util.asNode(nodeId) AS n, score
+WHERE 'Country' IN labels(n)
+RETURN n.name AS Country, score AS BetweennessCentrality
+ORDER BY score DESC;
+```
+
+---
+
+## 🔍 Key Insights
+
+* **Iran & Arab Saudi** memiliki betweenness centrality tertinggi → berperan sebagai bottleneck utama
+* **Amerika Serikat** berperan sebagai penghubung strategis global
+* Negara seperti **China, India, Indonesia** berperan sebagai endpoint (bukan penghubung utama)
+
+---
+
+## 🚀 How to Run
+
+1. Import dataset ke Neo4j
+2. Jalankan graph projection
+3. Jalankan query centrality
+4. Analisis hasil
+
+---
+
+## 📥 Clone Repository
+
+```bash
+git clone https://github.com/USERNAME/geopolitical-graph-analysis.git
+```
+
+---
+
+## 👤 Author
+
+Team
