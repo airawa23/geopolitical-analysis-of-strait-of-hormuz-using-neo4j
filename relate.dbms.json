@@ -1,0 +1,20 @@
+{
+  "name": "KnowledgeGraph_Strait of Hormuz",
+  "description": "",
+  "tags": [],
+  "metadata": {
+    "createdAt": 1773145485487,
+    "lastStartedAt": 1774430996241,
+    "lastDatabasesRefresh": 1774434664795,
+    "databases": [
+      {
+        "databaseName": "neo4j"
+      },
+      {
+        "databaseName": "system"
+      }
+    ]
+  },
+  "id": "0aaa057e-015d-44fb-beab-d396368cc419",
+  "isCustomPathInstallation": false
+}

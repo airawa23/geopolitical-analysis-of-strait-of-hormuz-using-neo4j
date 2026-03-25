@@ -1,0 +1,632 @@
+﻿Directories in use:
+home:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419
+config:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf
+logs:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\logs
+plugins:      C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\plugins
+import:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\import
+data:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\data
+certificates: C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\certificates
+licenses:     C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\licenses
+run:          C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\run
+Starting Neo4j.
+2026-03-10 12:24:52.816+0000 INFO  Logging config in use: File 'C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf\user-logs.xml'
+2026-03-10 12:24:52.829+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2026-03-10 12:24:52.833+0000 INFO  Starting...
+2026-03-10 12:24:56.566+0000 INFO  ======== Neo4j 2026.02.2 ========
+2026-03-10 12:24:56.964+0000 INFO  This instance is ServerId{22877212} (22877212-93f8-4986-a98c-1e80f6e28ac6)
+2026-03-10 12:24:58.253+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-10 12:24:58.535+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-10 12:25:01.795+0000 INFO  Default database 'neo4j' is created
+2026-03-10 12:25:02.375+0000 INFO  Sending metrics to CSV file at C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\metrics
+2026-03-10 12:25:02.432+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2026-03-10 12:25:02.442+0000 INFO  Bolt enabled on localhost:7687.
+2026-03-10 12:25:02.445+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2026-03-10 12:25:07.089+0000 INFO  HTTP enabled on localhost:7474.
+2026-03-10 12:25:07.090+0000 INFO  Remote interface available at http://localhost:7474/
+2026-03-10 12:25:07.105+0000 INFO  id: 54FD3BE05E6732DF8AFE33A753F263484B7CE8892471AB002721B84316CEB0C4
+2026-03-10 12:25:07.105+0000 INFO  name: system
+2026-03-10 12:25:07.106+0000 INFO  creationDate: 2026-03-10T12:24:59.925Z
+2026-03-10 12:25:07.106+0000 INFO  Started.
+Directories in use:
+home:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419
+config:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf
+logs:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\logs
+plugins:      C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\plugins
+import:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\import
+data:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\data
+certificates: C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\certificates
+licenses:     C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\licenses
+run:          C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\run
+Starting Neo4j.
+2026-03-10 12:34:20.713+0000 INFO  Logging config in use: File 'C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf\user-logs.xml'
+2026-03-10 12:34:20.727+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2026-03-10 12:34:20.730+0000 INFO  Starting...
+2026-03-10 12:34:23.760+0000 INFO  ======== Neo4j 2026.02.2 ========
+2026-03-10 12:34:24.109+0000 INFO  This instance is ServerId{22877212} (22877212-93f8-4986-a98c-1e80f6e28ac6)
+2026-03-10 12:34:25.083+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-10 12:34:25.293+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-10 12:34:29.884+0000 INFO  Sending metrics to CSV file at C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\metrics
+2026-03-10 12:34:29.933+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2026-03-10 12:34:29.933+0000 INFO  Bolt enabled on localhost:7687.
+2026-03-10 12:34:29.933+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2026-03-10 12:34:33.985+0000 INFO  HTTP enabled on localhost:7474.
+2026-03-10 12:34:33.997+0000 INFO  Remote interface available at http://localhost:7474/
+2026-03-10 12:34:33.999+0000 INFO  id: 54FD3BE05E6732DF8AFE33A753F263484B7CE8892471AB002721B84316CEB0C4
+2026-03-10 12:34:34.005+0000 INFO  name: system
+2026-03-10 12:34:34.005+0000 INFO  creationDate: 2026-03-10T12:24:59.925Z
+2026-03-10 12:34:34.005+0000 INFO  Started.
+Directories in use:
+home:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419
+config:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf
+logs:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\logs
+plugins:      C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\plugins
+import:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\import
+data:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\data
+certificates: C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\certificates
+licenses:     C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\licenses
+run:          C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\run
+Starting Neo4j.
+2026-03-11 05:27:23.215+0000 INFO  Logging config in use: File 'C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf\user-logs.xml'
+2026-03-11 05:27:23.225+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2026-03-11 05:27:23.228+0000 INFO  Starting...
+2026-03-11 05:27:26.710+0000 INFO  ======== Neo4j 2026.02.2 ========
+2026-03-11 05:27:27.037+0000 INFO  This instance is ServerId{22877212} (22877212-93f8-4986-a98c-1e80f6e28ac6)
+2026-03-11 05:27:28.125+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 05:27:28.336+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 05:27:31.392+0000 INFO  Sending metrics to CSV file at C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\metrics
+2026-03-11 05:27:31.440+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2026-03-11 05:27:31.461+0000 INFO  Bolt enabled on localhost:7687.
+2026-03-11 05:27:31.464+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2026-03-11 05:27:35.470+0000 INFO  HTTP enabled on localhost:7474.
+2026-03-11 05:27:35.473+0000 INFO  Remote interface available at http://localhost:7474/
+2026-03-11 05:27:35.477+0000 INFO  id: 54FD3BE05E6732DF8AFE33A753F263484B7CE8892471AB002721B84316CEB0C4
+2026-03-11 05:27:35.478+0000 INFO  name: system
+2026-03-11 05:27:35.478+0000 INFO  creationDate: 2026-03-10T12:24:59.925Z
+2026-03-11 05:27:35.478+0000 INFO  Started.
+Directories in use:
+home:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419
+config:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf
+logs:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\logs
+plugins:      C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\plugins
+import:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\import
+data:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\data
+certificates: C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\certificates
+licenses:     C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\licenses
+run:          C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\run
+Starting Neo4j.
+2026-03-11 06:38:42.503+0000 INFO  Logging config in use: File 'C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf\user-logs.xml'
+2026-03-11 06:38:42.535+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2026-03-11 06:38:42.535+0000 INFO  Starting...
+2026-03-11 06:38:47.448+0000 INFO  ======== Neo4j 2026.02.2 ========
+2026-03-11 06:38:47.713+0000 INFO  This instance is ServerId{22877212} (22877212-93f8-4986-a98c-1e80f6e28ac6)
+2026-03-11 06:38:49.171+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 06:38:49.471+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 06:38:52.776+0000 INFO  Sending metrics to CSV file at C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\metrics
+2026-03-11 06:38:52.847+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2026-03-11 06:38:52.872+0000 INFO  Bolt enabled on localhost:7687.
+2026-03-11 06:38:52.874+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2026-03-11 06:38:56.908+0000 INFO  HTTP enabled on localhost:7474.
+2026-03-11 06:38:56.908+0000 INFO  Remote interface available at http://localhost:7474/
+2026-03-11 06:38:56.912+0000 INFO  id: 54FD3BE05E6732DF8AFE33A753F263484B7CE8892471AB002721B84316CEB0C4
+2026-03-11 06:38:56.912+0000 INFO  name: system
+2026-03-11 06:38:56.912+0000 INFO  creationDate: 2026-03-10T12:24:59.925Z
+2026-03-11 06:38:56.912+0000 INFO  Started.
+2026-03-11 07:01:18.065+0000 INFO  Neo4j Server shutdown initiated by request
+2026-03-11 07:01:18.071+0000 INFO  Stopping...
+2026-03-11 07:01:18.072+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419
+config:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf
+logs:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\logs
+plugins:      C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\plugins
+import:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\import
+data:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\data
+certificates: C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\certificates
+licenses:     C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\licenses
+run:          C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\run
+Starting Neo4j.
+2026-03-11 07:03:47.606+0000 INFO  Logging config in use: File 'C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf\user-logs.xml'
+2026-03-11 07:03:47.623+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2026-03-11 07:03:47.631+0000 INFO  Starting...
+2026-03-11 07:03:53.370+0000 INFO  ======== Neo4j 2026.02.2 ========
+2026-03-11 07:03:54.208+0000 INFO  This instance is ServerId{22877212} (22877212-93f8-4986-a98c-1e80f6e28ac6)
+2026-03-11 07:03:56.238+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 07:03:56.667+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 07:04:01.793+0000 INFO  Sending metrics to CSV file at C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\metrics
+2026-03-11 07:04:01.952+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2026-03-11 07:04:02.030+0000 INFO  Bolt enabled on localhost:7687.
+2026-03-11 07:04:02.044+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2026-03-11 07:04:07.207+0000 INFO  HTTP enabled on localhost:7474.
+2026-03-11 07:04:07.207+0000 INFO  Remote interface available at http://localhost:7474/
+2026-03-11 07:04:07.225+0000 INFO  id: 54FD3BE05E6732DF8AFE33A753F263484B7CE8892471AB002721B84316CEB0C4
+2026-03-11 07:04:07.225+0000 INFO  name: system
+2026-03-11 07:04:07.225+0000 INFO  creationDate: 2026-03-10T12:24:59.925Z
+2026-03-11 07:04:07.225+0000 INFO  Started.
+2026-03-11 07:05:27.786+0000 INFO  Neo4j Server shutdown initiated by request
+2026-03-11 07:05:27.786+0000 INFO  Stopping...
+2026-03-11 07:05:27.791+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419
+config:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf
+logs:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\logs
+plugins:      C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\plugins
+import:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\import
+data:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\data
+certificates: C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\certificates
+licenses:     C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\licenses
+run:          C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\run
+Starting Neo4j.
+2026-03-11 07:06:25.727+0000 INFO  Logging config in use: File 'C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf\user-logs.xml'
+2026-03-11 07:06:25.745+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2026-03-11 07:06:25.745+0000 INFO  Starting...
+2026-03-11 07:06:31.923+0000 INFO  ======== Neo4j 2026.02.2 ========
+2026-03-11 07:06:32.678+0000 INFO  This instance is ServerId{22877212} (22877212-93f8-4986-a98c-1e80f6e28ac6)
+2026-03-11 07:06:34.798+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 07:06:35.238+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 07:06:39.421+0000 INFO  Sending metrics to CSV file at C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\metrics
+2026-03-11 07:06:39.469+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2026-03-11 07:06:39.485+0000 INFO  Bolt enabled on localhost:7687.
+2026-03-11 07:06:39.485+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2026-03-11 07:06:45.418+0000 INFO  HTTP enabled on localhost:7474.
+2026-03-11 07:06:45.418+0000 INFO  Remote interface available at http://localhost:7474/
+2026-03-11 07:06:45.418+0000 INFO  id: 54FD3BE05E6732DF8AFE33A753F263484B7CE8892471AB002721B84316CEB0C4
+2026-03-11 07:06:45.418+0000 INFO  name: system
+2026-03-11 07:06:45.418+0000 INFO  creationDate: 2026-03-10T12:24:59.925Z
+2026-03-11 07:06:45.418+0000 INFO  Started.
+Directories in use:
+home:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419
+config:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf
+logs:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\logs
+plugins:      C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\plugins
+import:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\import
+data:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\data
+certificates: C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\certificates
+licenses:     C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\licenses
+run:          C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\run
+Starting Neo4j.
+2026-03-11 15:31:07.352+0000 INFO  Logging config in use: File 'C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf\user-logs.xml'
+2026-03-11 15:31:07.383+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2026-03-11 15:31:07.387+0000 INFO  Starting...
+2026-03-11 15:31:16.710+0000 INFO  ======== Neo4j 2026.02.2 ========
+2026-03-11 15:31:17.781+0000 INFO  This instance is ServerId{22877212} (22877212-93f8-4986-a98c-1e80f6e28ac6)
+2026-03-11 15:31:19.167+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 15:31:19.388+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 15:31:26.309+0000 INFO  Sending metrics to CSV file at C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\metrics
+2026-03-11 15:31:26.587+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2026-03-11 15:31:26.634+0000 INFO  Bolt enabled on localhost:7687.
+2026-03-11 15:31:26.634+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2026-03-11 15:31:36.911+0000 INFO  HTTP enabled on localhost:7474.
+2026-03-11 15:31:36.911+0000 INFO  Remote interface available at http://localhost:7474/
+2026-03-11 15:31:36.911+0000 INFO  id: 54FD3BE05E6732DF8AFE33A753F263484B7CE8892471AB002721B84316CEB0C4
+2026-03-11 15:31:36.911+0000 INFO  name: system
+2026-03-11 15:31:36.911+0000 INFO  creationDate: 2026-03-10T12:24:59.925Z
+2026-03-11 15:31:36.911+0000 INFO  Started.
+Directories in use:
+home:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419
+config:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf
+logs:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\logs
+plugins:      C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\plugins
+import:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\import
+data:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\data
+certificates: C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\certificates
+licenses:     C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\licenses
+run:          C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\run
+Starting Neo4j.
+2026-03-11 17:21:14.296+0000 INFO  Logging config in use: File 'C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf\user-logs.xml'
+2026-03-11 17:21:14.305+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2026-03-11 17:21:14.305+0000 INFO  Starting...
+2026-03-11 17:21:17.926+0000 INFO  ======== Neo4j 2026.02.2 ========
+2026-03-11 17:21:18.206+0000 INFO  This instance is ServerId{22877212} (22877212-93f8-4986-a98c-1e80f6e28ac6)
+2026-03-11 17:21:19.267+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 17:21:19.488+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-11 17:21:22.399+0000 INFO  Sending metrics to CSV file at C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\metrics
+2026-03-11 17:21:22.448+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2026-03-11 17:21:22.457+0000 INFO  Bolt enabled on localhost:7687.
+2026-03-11 17:21:22.457+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2026-03-11 17:21:26.646+0000 INFO  HTTP enabled on localhost:7474.
+2026-03-11 17:21:26.646+0000 INFO  Remote interface available at http://localhost:7474/
+2026-03-11 17:21:26.646+0000 INFO  id: 54FD3BE05E6732DF8AFE33A753F263484B7CE8892471AB002721B84316CEB0C4
+2026-03-11 17:21:26.646+0000 INFO  name: system
+2026-03-11 17:21:26.646+0000 INFO  creationDate: 2026-03-10T12:24:59.925Z
+2026-03-11 17:21:26.646+0000 INFO  Started.
+Directories in use:
+home:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419
+config:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf
+logs:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\logs
+plugins:      C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\plugins
+import:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\import
+data:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\data
+certificates: C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\certificates
+licenses:     C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\licenses
+run:          C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\run
+Starting Neo4j.
+2026-03-25 08:51:42.551+0000 INFO  Logging config in use: File 'C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf\user-logs.xml'
+2026-03-25 08:51:42.566+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2026-03-25 08:51:42.569+0000 INFO  Starting...
+2026-03-25 08:51:46.451+0000 INFO  ======== Neo4j 2026.02.2 ========
+2026-03-25 08:51:46.819+0000 INFO  This instance is ServerId{22877212} (22877212-93f8-4986-a98c-1e80f6e28ac6)
+2026-03-25 08:51:47.852+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-25 08:51:48.102+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-25 08:51:51.151+0000 INFO  Sending metrics to CSV file at C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\metrics
+2026-03-25 08:51:51.199+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2026-03-25 08:51:51.217+0000 INFO  Bolt enabled on localhost:7687.
+2026-03-25 08:51:51.223+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2026-03-25 08:51:55.283+0000 INFO  HTTP enabled on localhost:7474.
+2026-03-25 08:51:55.283+0000 INFO  Remote interface available at http://localhost:7474/
+2026-03-25 08:51:55.289+0000 INFO  id: 54FD3BE05E6732DF8AFE33A753F263484B7CE8892471AB002721B84316CEB0C4
+2026-03-25 08:51:55.289+0000 INFO  name: system
+2026-03-25 08:51:55.289+0000 INFO  creationDate: 2026-03-10T12:24:59.925Z
+2026-03-25 08:51:55.289+0000 INFO  Started.
+Directories in use:
+home:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419
+config:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf
+logs:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\logs
+plugins:      C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\plugins
+import:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\import
+data:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\data
+certificates: C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\certificates
+licenses:     C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\licenses
+run:          C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\run
+Starting Neo4j.
+2026-03-25 09:20:16.881+0000 INFO  Logging config in use: File 'C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf\user-logs.xml'
+2026-03-25 09:20:16.904+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2026-03-25 09:20:16.907+0000 INFO  Starting...
+2026-03-25 09:20:21.603+0000 INFO  ======== Neo4j 2026.02.2 ========
+2026-03-25 09:20:21.963+0000 INFO  This instance is ServerId{22877212} (22877212-93f8-4986-a98c-1e80f6e28ac6)
+2026-03-25 09:20:23.118+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-25 09:20:23.328+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-25 09:20:26.188+0000 INFO  Sending metrics to CSV file at C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\metrics
+2026-03-25 09:20:26.230+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2026-03-25 09:20:26.246+0000 INFO  Bolt enabled on localhost:7687.
+2026-03-25 09:20:26.248+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2026-03-25 09:20:30.980+0000 INFO  HTTP enabled on localhost:7474.
+2026-03-25 09:20:30.983+0000 INFO  Remote interface available at http://localhost:7474/
+2026-03-25 09:20:30.989+0000 INFO  id: 54FD3BE05E6732DF8AFE33A753F263484B7CE8892471AB002721B84316CEB0C4
+2026-03-25 09:20:30.990+0000 INFO  name: system
+2026-03-25 09:20:30.990+0000 INFO  creationDate: 2026-03-10T12:24:59.925Z
+2026-03-25 09:20:30.990+0000 INFO  Started.
+2026-03-25 09:29:54.964+0000 INFO  Neo4j Server shutdown initiated by request
+2026-03-25 09:29:54.966+0000 INFO  Stopping...
+2026-03-25 09:29:54.973+0000 INFO  Stopped.
+Directories in use:
+home:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419
+config:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf
+logs:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\logs
+plugins:      C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\plugins
+import:       C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\import
+data:         C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\data
+certificates: C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\certificates
+licenses:     C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\licenses
+run:          C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\run
+Starting Neo4j.
+2026-03-25 09:30:02.150+0000 INFO  Logging config in use: File 'C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\conf\user-logs.xml'
+2026-03-25 09:30:02.164+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2026-03-25 09:30:02.169+0000 INFO  Starting...
+2026-03-25 09:30:06.508+0000 INFO  ======== Neo4j 2026.02.2 ========
+2026-03-25 09:30:06.890+0000 INFO  This instance is ServerId{22877212} (22877212-93f8-4986-a98c-1e80f6e28ac6)
+2026-03-25 09:30:07.041+0000 INFO  Prometheus: disabled GDS Metrics Server: disabled
+2026-03-25 09:30:07.041+0000 WARN  GDS metrics disabled
+2026-03-25 09:30:07.048+0000 WARN  [gds] The configuration gds.model.store_location is missing.
+2026-03-25 09:30:07.056+0000 INFO  Progress tracking: enabled
+2026-03-25 09:30:07.056+0000 INFO  Memory usage guard: minimum estimate
+2026-03-25 09:30:07.061+0000 INFO  Register GDS Memory Facade...
+2026-03-25 09:30:07.061+0000 INFO  GDS Memory Facade registered.
+2026-03-25 09:30:07.078+0000 INFO  Building Graph Data Science extension...
+2026-03-25 09:30:07.082+0000 INFO  Register Graph Data Science...
+2026-03-25 09:30:07.082+0000 INFO  Graph Data Science registered.
+2026-03-25 09:30:07.083+0000 INFO  Register Metrics...
+2026-03-25 09:30:07.083+0000 INFO  Metrics registered.
+2026-03-25 09:30:07.083+0000 INFO  Register Task Registry Factory...
+2026-03-25 09:30:07.084+0000 INFO  Task Registry Factory registered.
+2026-03-25 09:30:07.084+0000 INFO  Register Task Store...
+2026-03-25 09:30:07.085+0000 INFO  Task Store registered.
+2026-03-25 09:30:07.085+0000 INFO  Register User Log Registry...
+2026-03-25 09:30:07.087+0000 INFO  User Log Registry registered.
+2026-03-25 09:30:07.088+0000 INFO  Register Username...
+2026-03-25 09:30:07.088+0000 INFO  Username registered.
+2026-03-25 09:30:07.088+0000 INFO  Register License State...
+2026-03-25 09:30:07.089+0000 INFO  License State registered.
+2026-03-25 09:30:07.089+0000 INFO  Register Model Catalog...
+2026-03-25 09:30:07.089+0000 INFO  Model Catalog registered.
+2026-03-25 09:30:07.089+0000 INFO  Graph Data Science extension built.
+2026-03-25 09:30:07.090+0000 INFO  Building Graph Data Science Extras extension...
+2026-03-25 09:30:07.091+0000 INFO  Register Graph Data Science Extras...
+2026-03-25 09:30:07.092+0000 INFO  Graph Data Science Extras registered.
+2026-03-25 09:30:07.092+0000 INFO  Graph Data Science Extras extension built.
+2026-03-25 09:30:08.085+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-25 09:30:08.288+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:6000]'} to '[localhost:6000]'
+2026-03-25 09:30:14.628+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2026-03-25 09:30:14.631+0000 INFO  Sending metrics to CSV file at C:\Users\Lenovo\.Neo4jDesktop2\Data\dbmss\dbms-0aaa057e-015d-44fb-beab-d396368cc419\metrics
+2026-03-25 09:30:14.697+0000 INFO  Bolt enabled on localhost:7687.
+2026-03-25 09:30:14.701+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2026-03-25 09:30:19.502+0000 INFO  HTTP enabled on localhost:7474.
+2026-03-25 09:30:19.503+0000 INFO  Remote interface available at http://localhost:7474/
+2026-03-25 09:30:19.509+0000 INFO  id: 54FD3BE05E6732DF8AFE33A753F263484B7CE8892471AB002721B84316CEB0C4
+2026-03-25 09:30:19.509+0000 INFO  name: system
+2026-03-25 09:30:19.509+0000 INFO  creationDate: 2026-03-10T12:24:59.925Z
+2026-03-25 09:30:19.509+0000 INFO  Started.
+2026-03-25 09:30:27.446+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Start
+2026-03-25 09:30:27.454+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Start
+2026-03-25 09:30:27.458+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Start
+2026-03-25 09:30:27.458+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Start using NodeCursorBasedScanner
+2026-03-25 09:30:27.488+0000 INFO  [gid-605d8] [node-store-scan-2] Loading :: Nodes :: Store Scan 100%
+2026-03-25 09:30:27.490+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Imported 36 records and 0 properties from 8190 Bytes (8,190 bytes); took 0.028 s, 1,286.28 36s/s, 285 KiB/s (292,629 bytes/s) (per thread: 321.57 36s/s, 71 KiB/s (73,157 bytes/s))
+2026-03-25 09:30:27.491+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Finished
+2026-03-25 09:30:27.503+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Finished
+2026-03-25 09:30:27.505+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Start
+2026-03-25 09:30:27.505+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Start
+2026-03-25 09:30:27.505+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Start using RelationshipScanCursorBasedScanner
+2026-03-25 09:30:27.534+0000 INFO  [gid-605d8] [relationship-store-scan-2] Loading :: Relationships :: Store Scan 6%
+2026-03-25 09:30:27.534+0000 INFO  [gid-605d8] [relationship-store-scan-3] Loading :: Relationships :: Store Scan 100%
+2026-03-25 09:30:27.541+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Imported 30 records and 0 properties from 8160 Bytes (8,160 bytes); took 0.016 s, 1,825.55 30s/s, 484 KiB/s (496,549 bytes/s) (per thread: 456.39 30s/s, 121 KiB/s (124,137 bytes/s))
+2026-03-25 09:30:27.541+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Finished
+2026-03-25 09:30:27.622+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Finished
+2026-03-25 09:30:27.633+0000 INFO  [gid-605d8] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Finished
+2026-03-25 09:30:37.419+0000 INFO  [gid-n4j-19] Algorithm processing commencing
+2026-03-25 09:30:37.420+0000 INFO  [gid-n4j-19] Loading graph
+2026-03-25 09:30:37.438+0000 INFO  [gid-n4j-19] Computing algorithm
+2026-03-25 09:30:37.446+0000 INFO  [gid-n4j-19] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] DegreeCentrality :: Start
+2026-03-25 09:30:37.446+0000 INFO  [gid-n4j-19] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] DegreeCentrality 100%
+2026-03-25 09:30:37.447+0000 INFO  [gid-n4j-19] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] DegreeCentrality :: Finished
+2026-03-25 09:30:37.448+0000 INFO  [gid-n4j-19] Processing algorithm result
+2026-03-25 09:30:37.448+0000 INFO  [gid-n4j-19] Rendering output
+2026-03-25 09:30:37.451+0000 INFO  [gid-n4j-19] Algorithm processing complete
+2026-03-25 09:30:41.468+0000 INFO  [gid-n4j-20] Algorithm processing commencing
+2026-03-25 09:30:41.470+0000 INFO  [gid-n4j-20] Loading graph
+2026-03-25 09:30:41.471+0000 INFO  [gid-n4j-20] Computing algorithm
+2026-03-25 09:30:41.486+0000 INFO  [gid-n4j-20] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Betweenness Centrality :: Start
+2026-03-25 09:30:41.489+0000 INFO  [gid-n4j-20] [gds-3] Betweenness Centrality 2%
+2026-03-25 09:30:41.489+0000 INFO  [gid-n4j-20] [gds-1] Betweenness Centrality 5%
+2026-03-25 09:30:41.489+0000 INFO  [gid-n4j-20] [gds-2] Betweenness Centrality 8%
+2026-03-25 09:30:41.490+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 11%
+2026-03-25 09:30:41.490+0000 INFO  [gid-n4j-20] [gds-3] Betweenness Centrality 13%
+2026-03-25 09:30:41.490+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 16%
+2026-03-25 09:30:41.494+0000 INFO  [gid-n4j-20] [gds-3] Betweenness Centrality 19%
+2026-03-25 09:30:41.494+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 22%
+2026-03-25 09:30:41.496+0000 INFO  [gid-n4j-20] [gds-2] Betweenness Centrality 25%
+2026-03-25 09:30:41.496+0000 INFO  [gid-n4j-20] [gds-1] Betweenness Centrality 27%
+2026-03-25 09:30:41.496+0000 INFO  [gid-n4j-20] [gds-2] Betweenness Centrality 30%
+2026-03-25 09:30:41.497+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 33%
+2026-03-25 09:30:41.497+0000 INFO  [gid-n4j-20] [gds-3] Betweenness Centrality 36%
+2026-03-25 09:30:41.497+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 38%
+2026-03-25 09:30:41.497+0000 INFO  [gid-n4j-20] [gds-2] Betweenness Centrality 41%
+2026-03-25 09:30:41.498+0000 INFO  [gid-n4j-20] [gds-1] Betweenness Centrality 44%
+2026-03-25 09:30:41.498+0000 INFO  [gid-n4j-20] [gds-2] Betweenness Centrality 47%
+2026-03-25 09:30:41.498+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 50%
+2026-03-25 09:30:41.498+0000 INFO  [gid-n4j-20] [gds-3] Betweenness Centrality 52%
+2026-03-25 09:30:41.498+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 55%
+2026-03-25 09:30:41.498+0000 INFO  [gid-n4j-20] [gds-2] Betweenness Centrality 58%
+2026-03-25 09:30:41.498+0000 INFO  [gid-n4j-20] [gds-1] Betweenness Centrality 61%
+2026-03-25 09:30:41.500+0000 INFO  [gid-n4j-20] [gds-2] Betweenness Centrality 63%
+2026-03-25 09:30:41.500+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 66%
+2026-03-25 09:30:41.500+0000 INFO  [gid-n4j-20] [gds-3] Betweenness Centrality 69%
+2026-03-25 09:30:41.500+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 72%
+2026-03-25 09:30:41.500+0000 INFO  [gid-n4j-20] [gds-2] Betweenness Centrality 75%
+2026-03-25 09:30:41.500+0000 INFO  [gid-n4j-20] [gds-1] Betweenness Centrality 77%
+2026-03-25 09:30:41.501+0000 INFO  [gid-n4j-20] [gds-2] Betweenness Centrality 80%
+2026-03-25 09:30:41.501+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 83%
+2026-03-25 09:30:41.501+0000 INFO  [gid-n4j-20] [gds-3] Betweenness Centrality 86%
+2026-03-25 09:30:41.501+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 88%
+2026-03-25 09:30:41.501+0000 INFO  [gid-n4j-20] [gds-2] Betweenness Centrality 91%
+2026-03-25 09:30:41.501+0000 INFO  [gid-n4j-20] [gds-1] Betweenness Centrality 94%
+2026-03-25 09:30:41.501+0000 INFO  [gid-n4j-20] [gds-4] Betweenness Centrality 97%
+2026-03-25 09:30:41.502+0000 INFO  [gid-n4j-20] [gds-3] Betweenness Centrality 100%
+2026-03-25 09:30:41.502+0000 INFO  [gid-n4j-20] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Betweenness Centrality :: Finished
+2026-03-25 09:30:41.502+0000 INFO  [gid-n4j-20] Processing algorithm result
+2026-03-25 09:30:41.503+0000 INFO  [gid-n4j-20] Rendering output
+2026-03-25 09:30:41.504+0000 INFO  [gid-n4j-20] Algorithm processing complete
+2026-03-25 10:01:47.011+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Start
+2026-03-25 10:01:47.024+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Start
+2026-03-25 10:01:47.025+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Start
+2026-03-25 10:01:47.026+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Start using MultipleNodeLabelIndexBasedScanner
+2026-03-25 10:01:47.077+0000 INFO  [gid-ee461] [node-store-scan-0] Loading :: Nodes :: Store Scan 100%
+2026-03-25 10:01:47.080+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Imported 33 records and 0 properties from 8190 Bytes (8,190 bytes); took 0.052 s, 633.31 33s/s, 153 KiB/s (157,175 bytes/s) (per thread: 158.33 33s/s, 38 KiB/s (39,293 bytes/s))
+2026-03-25 10:01:47.080+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Finished
+2026-03-25 10:01:47.082+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Finished
+2026-03-25 10:01:47.084+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Start
+2026-03-25 10:01:47.084+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Start
+2026-03-25 10:01:47.084+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Start using RelationshipScanCursorBasedScanner
+2026-03-25 10:01:47.087+0000 INFO  [gid-ee461] [relationship-store-scan-0] Loading :: Relationships :: Store Scan 63%
+2026-03-25 10:01:47.088+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Imported 52 records and 0 properties from 8160 Bytes (8,160 bytes); took 0.003 s, 19,142.98 52s/s, 2933 KiB/s (3,003,975 bytes/s) (per thread: 4,785.75 52s/s, 733 KiB/s (750,993 bytes/s))
+2026-03-25 10:01:47.088+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan 100%
+2026-03-25 10:01:47.088+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Finished
+2026-03-25 10:01:47.089+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Finished
+2026-03-25 10:01:47.090+0000 INFO  [gid-ee461] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Finished
+2026-03-25 10:04:41.374+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Start
+2026-03-25 10:04:41.377+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Start
+2026-03-25 10:04:41.377+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Start
+2026-03-25 10:04:41.377+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Start using MultipleNodeLabelIndexBasedScanner
+2026-03-25 10:04:41.378+0000 INFO  [gid-b451d] [node-store-scan-3] Loading :: Nodes :: Store Scan 100%
+2026-03-25 10:04:41.379+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Imported 33 records and 0 properties from 8190 Bytes (8,190 bytes); took 0.001 s, 27,232.22 33s/s, 6600 KiB/s (6,758,541 bytes/s) (per thread: 6,808.05 33s/s, 1650 KiB/s (1,689,635 bytes/s))
+2026-03-25 10:04:41.379+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Store Scan :: Finished
+2026-03-25 10:04:41.379+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Nodes :: Finished
+2026-03-25 10:04:41.379+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Start
+2026-03-25 10:04:41.379+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Start
+2026-03-25 10:04:41.379+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Start using RelationshipScanCursorBasedScanner
+2026-03-25 10:04:41.380+0000 INFO  [gid-b451d] [relationship-store-scan-1] Loading :: Relationships :: Store Scan 63%
+2026-03-25 10:04:41.382+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Imported 26 records and 0 properties from 8160 Bytes (8,160 bytes); took 0.001 s, 19,421.83 26s/s, 5952 KiB/s (6,095,465 bytes/s) (per thread: 4,855.46 26s/s, 1488 KiB/s (1,523,866 bytes/s))
+2026-03-25 10:04:41.382+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan 100%
+2026-03-25 10:04:41.382+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Store Scan :: Finished
+2026-03-25 10:04:41.382+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Relationships :: Finished
+2026-03-25 10:04:41.382+0000 INFO  [gid-b451d] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Loading :: Finished
+2026-03-25 10:04:53.823+0000 INFO  [gid-n4j-132] Algorithm processing commencing
+2026-03-25 10:04:53.823+0000 INFO  [gid-n4j-132] Loading graph
+2026-03-25 10:04:53.823+0000 INFO  [gid-n4j-132] Computing algorithm
+2026-03-25 10:04:53.824+0000 INFO  [gid-n4j-132] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] DegreeCentrality :: Start
+2026-03-25 10:04:53.824+0000 INFO  [gid-n4j-132] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] DegreeCentrality 100%
+2026-03-25 10:04:53.824+0000 INFO  [gid-n4j-132] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] DegreeCentrality :: Finished
+2026-03-25 10:04:53.824+0000 INFO  [gid-n4j-132] Processing algorithm result
+2026-03-25 10:04:53.825+0000 INFO  [gid-n4j-132] Rendering output
+2026-03-25 10:04:53.825+0000 INFO  [gid-n4j-132] Algorithm processing complete
+2026-03-25 10:05:02.606+0000 INFO  [gid-n4j-134] Algorithm processing commencing
+2026-03-25 10:05:02.607+0000 INFO  [gid-n4j-134] Loading graph
+2026-03-25 10:05:02.607+0000 INFO  [gid-n4j-134] Computing algorithm
+2026-03-25 10:05:02.608+0000 INFO  [gid-n4j-134] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Betweenness Centrality :: Start
+2026-03-25 10:05:02.608+0000 INFO  [gid-n4j-134] [gds-1] Betweenness Centrality 3%
+2026-03-25 10:05:02.608+0000 INFO  [gid-n4j-134] [gds-3] Betweenness Centrality 6%
+2026-03-25 10:05:02.609+0000 INFO  [gid-n4j-134] [gds-2] Betweenness Centrality 9%
+2026-03-25 10:05:02.609+0000 INFO  [gid-n4j-134] [gds-3] Betweenness Centrality 12%
+2026-03-25 10:05:02.609+0000 INFO  [gid-n4j-134] [gds-4] Betweenness Centrality 15%
+2026-03-25 10:05:02.610+0000 INFO  [gid-n4j-134] [gds-3] Betweenness Centrality 18%
+2026-03-25 10:05:02.610+0000 INFO  [gid-n4j-134] [gds-2] Betweenness Centrality 21%
+2026-03-25 10:05:02.610+0000 INFO  [gid-n4j-134] [gds-1] Betweenness Centrality 24%
+2026-03-25 10:05:02.610+0000 INFO  [gid-n4j-134] [gds-2] Betweenness Centrality 27%
+2026-03-25 10:05:02.610+0000 INFO  [gid-n4j-134] [gds-3] Betweenness Centrality 30%
+2026-03-25 10:05:02.610+0000 INFO  [gid-n4j-134] [gds-4] Betweenness Centrality 33%
+2026-03-25 10:05:02.610+0000 INFO  [gid-n4j-134] [gds-3] Betweenness Centrality 36%
+2026-03-25 10:05:02.610+0000 INFO  [gid-n4j-134] [gds-2] Betweenness Centrality 39%
+2026-03-25 10:05:02.611+0000 INFO  [gid-n4j-134] [gds-1] Betweenness Centrality 42%
+2026-03-25 10:05:02.611+0000 INFO  [gid-n4j-134] [gds-2] Betweenness Centrality 45%
+2026-03-25 10:05:02.611+0000 INFO  [gid-n4j-134] [gds-3] Betweenness Centrality 48%
+2026-03-25 10:05:02.611+0000 INFO  [gid-n4j-134] [gds-4] Betweenness Centrality 51%
+2026-03-25 10:05:02.611+0000 INFO  [gid-n4j-134] [gds-3] Betweenness Centrality 54%
+2026-03-25 10:05:02.611+0000 INFO  [gid-n4j-134] [gds-2] Betweenness Centrality 57%
+2026-03-25 10:05:02.611+0000 INFO  [gid-n4j-134] [gds-1] Betweenness Centrality 60%
+2026-03-25 10:05:02.612+0000 INFO  [gid-n4j-134] [gds-2] Betweenness Centrality 63%
+2026-03-25 10:05:02.612+0000 INFO  [gid-n4j-134] [gds-3] Betweenness Centrality 66%
+2026-03-25 10:05:02.612+0000 INFO  [gid-n4j-134] [gds-4] Betweenness Centrality 69%
+2026-03-25 10:05:02.612+0000 INFO  [gid-n4j-134] [gds-3] Betweenness Centrality 72%
+2026-03-25 10:05:02.612+0000 INFO  [gid-n4j-134] [gds-2] Betweenness Centrality 75%
+2026-03-25 10:05:02.612+0000 INFO  [gid-n4j-134] [gds-1] Betweenness Centrality 78%
+2026-03-25 10:05:02.612+0000 INFO  [gid-n4j-134] [gds-2] Betweenness Centrality 81%
+2026-03-25 10:05:02.612+0000 INFO  [gid-n4j-134] [gds-3] Betweenness Centrality 84%
+2026-03-25 10:05:02.613+0000 INFO  [gid-n4j-134] [gds-4] Betweenness Centrality 87%
+2026-03-25 10:05:02.613+0000 INFO  [gid-n4j-134] [gds-3] Betweenness Centrality 90%
+2026-03-25 10:05:02.613+0000 INFO  [gid-n4j-134] [gds-2] Betweenness Centrality 93%
+2026-03-25 10:05:02.613+0000 INFO  [gid-n4j-134] [gds-1] Betweenness Centrality 96%
+2026-03-25 10:05:02.613+0000 INFO  [gid-n4j-134] [gds-4] Betweenness Centrality 100%
+2026-03-25 10:05:02.613+0000 INFO  [gid-n4j-134] [neo4j.BoltWorker-8 [bolt-5 - /127.0.0.1:59991]] Betweenness Centrality :: Finished
+2026-03-25 10:05:02.613+0000 INFO  [gid-n4j-134] Processing algorithm result
+2026-03-25 10:05:02.614+0000 INFO  [gid-n4j-134] Rendering output
+2026-03-25 10:05:02.614+0000 INFO  [gid-n4j-134] Algorithm processing complete
+2026-03-25 10:07:28.209+0000 INFO  [gid-n4j-137] Algorithm processing commencing
+2026-03-25 10:07:28.210+0000 INFO  [gid-n4j-137] Loading graph
+2026-03-25 10:07:28.211+0000 INFO  [gid-n4j-137] Computing algorithm
+2026-03-25 10:07:28.211+0000 INFO  [gid-n4j-137] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] DegreeCentrality :: Start
+2026-03-25 10:07:28.211+0000 INFO  [gid-n4j-137] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] DegreeCentrality 100%
+2026-03-25 10:07:28.212+0000 INFO  [gid-n4j-137] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] DegreeCentrality :: Finished
+2026-03-25 10:07:28.212+0000 INFO  [gid-n4j-137] Processing algorithm result
+2026-03-25 10:07:28.212+0000 INFO  [gid-n4j-137] Rendering output
+2026-03-25 10:07:28.212+0000 INFO  [gid-n4j-137] Algorithm processing complete
+2026-03-25 10:07:36.774+0000 INFO  [gid-n4j-139] Algorithm processing commencing
+2026-03-25 10:07:36.774+0000 INFO  [gid-n4j-139] Loading graph
+2026-03-25 10:07:36.775+0000 INFO  [gid-n4j-139] Computing algorithm
+2026-03-25 10:07:36.775+0000 INFO  [gid-n4j-139] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] Betweenness Centrality :: Start
+2026-03-25 10:07:36.775+0000 INFO  [gid-n4j-139] [gds-2] Betweenness Centrality 3%
+2026-03-25 10:07:36.776+0000 INFO  [gid-n4j-139] [gds-2] Betweenness Centrality 6%
+2026-03-25 10:07:36.776+0000 INFO  [gid-n4j-139] [gds-4] Betweenness Centrality 9%
+2026-03-25 10:07:36.776+0000 INFO  [gid-n4j-139] [gds-1] Betweenness Centrality 12%
+2026-03-25 10:07:36.776+0000 INFO  [gid-n4j-139] [gds-3] Betweenness Centrality 15%
+2026-03-25 10:07:36.776+0000 INFO  [gid-n4j-139] [gds-1] Betweenness Centrality 18%
+2026-03-25 10:07:36.776+0000 INFO  [gid-n4j-139] [gds-4] Betweenness Centrality 21%
+2026-03-25 10:07:36.776+0000 INFO  [gid-n4j-139] [gds-2] Betweenness Centrality 24%
+2026-03-25 10:07:36.776+0000 INFO  [gid-n4j-139] [gds-2] Betweenness Centrality 27%
+2026-03-25 10:07:36.776+0000 INFO  [gid-n4j-139] [gds-4] Betweenness Centrality 30%
+2026-03-25 10:07:36.777+0000 INFO  [gid-n4j-139] [gds-1] Betweenness Centrality 33%
+2026-03-25 10:07:36.777+0000 INFO  [gid-n4j-139] [gds-4] Betweenness Centrality 36%
+2026-03-25 10:07:36.777+0000 INFO  [gid-n4j-139] [gds-3] Betweenness Centrality 39%
+2026-03-25 10:07:36.777+0000 INFO  [gid-n4j-139] [gds-4] Betweenness Centrality 42%
+2026-03-25 10:07:36.777+0000 INFO  [gid-n4j-139] [gds-1] Betweenness Centrality 45%
+2026-03-25 10:07:36.777+0000 INFO  [gid-n4j-139] [gds-2] Betweenness Centrality 48%
+2026-03-25 10:07:36.777+0000 INFO  [gid-n4j-139] [gds-1] Betweenness Centrality 51%
+2026-03-25 10:07:36.778+0000 INFO  [gid-n4j-139] [gds-4] Betweenness Centrality 54%
+2026-03-25 10:07:36.778+0000 INFO  [gid-n4j-139] [gds-3] Betweenness Centrality 57%
+2026-03-25 10:07:36.778+0000 INFO  [gid-n4j-139] [gds-4] Betweenness Centrality 60%
+2026-03-25 10:07:36.778+0000 INFO  [gid-n4j-139] [gds-1] Betweenness Centrality 63%
+2026-03-25 10:07:36.778+0000 INFO  [gid-n4j-139] [gds-2] Betweenness Centrality 66%
+2026-03-25 10:07:36.779+0000 INFO  [gid-n4j-139] [gds-1] Betweenness Centrality 69%
+2026-03-25 10:07:36.779+0000 INFO  [gid-n4j-139] [gds-4] Betweenness Centrality 72%
+2026-03-25 10:07:36.779+0000 INFO  [gid-n4j-139] [gds-3] Betweenness Centrality 75%
+2026-03-25 10:07:36.779+0000 INFO  [gid-n4j-139] [gds-4] Betweenness Centrality 78%
+2026-03-25 10:07:36.779+0000 INFO  [gid-n4j-139] [gds-1] Betweenness Centrality 81%
+2026-03-25 10:07:36.779+0000 INFO  [gid-n4j-139] [gds-2] Betweenness Centrality 84%
+2026-03-25 10:07:36.780+0000 INFO  [gid-n4j-139] [gds-3] Betweenness Centrality 87%
+2026-03-25 10:07:36.780+0000 INFO  [gid-n4j-139] [gds-1] Betweenness Centrality 90%
+2026-03-25 10:07:36.780+0000 INFO  [gid-n4j-139] [gds-4] Betweenness Centrality 93%
+2026-03-25 10:07:36.780+0000 INFO  [gid-n4j-139] [gds-3] Betweenness Centrality 96%
+2026-03-25 10:07:36.780+0000 INFO  [gid-n4j-139] [gds-2] Betweenness Centrality 100%
+2026-03-25 10:07:36.780+0000 INFO  [gid-n4j-139] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] Betweenness Centrality :: Finished
+2026-03-25 10:07:36.781+0000 INFO  [gid-n4j-139] Processing algorithm result
+2026-03-25 10:07:36.781+0000 INFO  [gid-n4j-139] Rendering output
+2026-03-25 10:07:36.781+0000 INFO  [gid-n4j-139] Algorithm processing complete
+2026-03-25 10:16:20.056+0000 INFO  [gid-n4j-143] Algorithm processing commencing
+2026-03-25 10:16:20.057+0000 INFO  [gid-n4j-143] Loading graph
+2026-03-25 10:16:20.057+0000 INFO  [gid-n4j-143] Computing algorithm
+2026-03-25 10:16:20.057+0000 INFO  [gid-n4j-143] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] DegreeCentrality :: Start
+2026-03-25 10:16:20.057+0000 INFO  [gid-n4j-143] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] DegreeCentrality 100%
+2026-03-25 10:16:20.057+0000 INFO  [gid-n4j-143] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] DegreeCentrality :: Finished
+2026-03-25 10:16:20.057+0000 INFO  [gid-n4j-143] Processing algorithm result
+2026-03-25 10:16:20.057+0000 INFO  [gid-n4j-143] Rendering output
+2026-03-25 10:16:20.057+0000 INFO  [gid-n4j-143] Algorithm processing complete
+2026-03-25 10:16:31.358+0000 INFO  [gid-n4j-145] Algorithm processing commencing
+2026-03-25 10:16:31.359+0000 INFO  [gid-n4j-145] Loading graph
+2026-03-25 10:16:31.359+0000 INFO  [gid-n4j-145] Computing algorithm
+2026-03-25 10:16:31.359+0000 INFO  [gid-n4j-145] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] DegreeCentrality :: Start
+2026-03-25 10:16:31.359+0000 INFO  [gid-n4j-145] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] DegreeCentrality 100%
+2026-03-25 10:16:31.359+0000 INFO  [gid-n4j-145] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] DegreeCentrality :: Finished
+2026-03-25 10:16:31.359+0000 INFO  [gid-n4j-145] Processing algorithm result
+2026-03-25 10:16:31.359+0000 INFO  [gid-n4j-145] Rendering output
+2026-03-25 10:16:31.359+0000 INFO  [gid-n4j-145] Algorithm processing complete
+2026-03-25 10:16:36.833+0000 INFO  [gid-n4j-147] Algorithm processing commencing
+2026-03-25 10:16:36.833+0000 INFO  [gid-n4j-147] Loading graph
+2026-03-25 10:16:36.833+0000 INFO  [gid-n4j-147] Computing algorithm
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] Betweenness Centrality :: Start
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-1] Betweenness Centrality 3%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-3] Betweenness Centrality 6%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-2] Betweenness Centrality 9%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-2] Betweenness Centrality 12%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-1] Betweenness Centrality 15%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-4] Betweenness Centrality 18%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-1] Betweenness Centrality 21%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-2] Betweenness Centrality 24%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-3] Betweenness Centrality 27%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-1] Betweenness Centrality 30%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-4] Betweenness Centrality 33%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-1] Betweenness Centrality 36%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-4] Betweenness Centrality 39%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-3] Betweenness Centrality 42%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-2] Betweenness Centrality 45%
+2026-03-25 10:16:36.836+0000 INFO  [gid-n4j-147] [gds-3] Betweenness Centrality 48%
+2026-03-25 10:16:36.837+0000 INFO  [gid-n4j-147] [gds-3] Betweenness Centrality 51%
+2026-03-25 10:16:36.837+0000 INFO  [gid-n4j-147] [gds-4] Betweenness Centrality 54%
+2026-03-25 10:16:36.837+0000 INFO  [gid-n4j-147] [gds-4] Betweenness Centrality 57%
+2026-03-25 10:16:36.837+0000 INFO  [gid-n4j-147] [gds-1] Betweenness Centrality 60%
+2026-03-25 10:16:36.837+0000 INFO  [gid-n4j-147] [gds-1] Betweenness Centrality 63%
+2026-03-25 10:16:36.837+0000 INFO  [gid-n4j-147] [gds-1] Betweenness Centrality 66%
+2026-03-25 10:16:36.837+0000 INFO  [gid-n4j-147] [gds-4] Betweenness Centrality 69%
+2026-03-25 10:16:36.838+0000 INFO  [gid-n4j-147] [gds-3] Betweenness Centrality 72%
+2026-03-25 10:16:36.838+0000 INFO  [gid-n4j-147] [gds-2] Betweenness Centrality 75%
+2026-03-25 10:16:36.838+0000 INFO  [gid-n4j-147] [gds-3] Betweenness Centrality 78%
+2026-03-25 10:16:36.838+0000 INFO  [gid-n4j-147] [gds-4] Betweenness Centrality 81%
+2026-03-25 10:16:36.838+0000 INFO  [gid-n4j-147] [gds-1] Betweenness Centrality 84%
+2026-03-25 10:16:36.838+0000 INFO  [gid-n4j-147] [gds-4] Betweenness Centrality 87%
+2026-03-25 10:16:36.838+0000 INFO  [gid-n4j-147] [gds-3] Betweenness Centrality 90%
+2026-03-25 10:16:36.838+0000 INFO  [gid-n4j-147] [gds-2] Betweenness Centrality 93%
+2026-03-25 10:16:36.838+0000 INFO  [gid-n4j-147] [gds-1] Betweenness Centrality 96%
+2026-03-25 10:16:36.839+0000 INFO  [gid-n4j-147] [gds-4] Betweenness Centrality 100%
+2026-03-25 10:16:36.839+0000 INFO  [gid-n4j-147] [neo4j.BoltWorker-8 [bolt-9 - /127.0.0.1:62854]] Betweenness Centrality :: Finished
+2026-03-25 10:16:36.839+0000 INFO  [gid-n4j-147] Processing algorithm result
+2026-03-25 10:16:36.839+0000 INFO  [gid-n4j-147] Rendering output
+2026-03-25 10:16:36.839+0000 INFO  [gid-n4j-147] Algorithm processing complete
